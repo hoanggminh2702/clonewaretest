@@ -1,0 +1,16 @@
+@import "slick-carousel/slick/slick-theme.css";
+@import "slick-carousel/slick/slick.css";
+
+.wrapper {
+  position: relative;
+}
+
+.dark-background {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  background-color: #18191a;
+  width: 100vw;
+  height: 100vh;
+}

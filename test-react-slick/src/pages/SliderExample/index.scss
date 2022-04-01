@@ -1,0 +1,22 @@
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: auto;
+}
+
+.empty-slide {
+  width: 100%;
+  background-color: transparent;
+  aspect-ratio: 1;
+}
+
+.btn-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  button {
+    width: 100px;
+  }
+}

@@ -1,0 +1,15 @@
+.custom-img-wrapper {
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+.custom-img {
+  width: 100%;
+  height: 100%;
+}
+
+.acitve-slide {
+  transform: scale(1.3);
+  position: relative;
+  z-index: 1;
+}
